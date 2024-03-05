@@ -12,8 +12,8 @@ public class Main {
         System.out.println(result);
 
   
-        test.add(2,6);
-        test.add(4,3);
+        System.out.println(test.add(2,6));
+        System.out.println(test.add(4,3));
 
     
       
