@@ -1,4 +1,9 @@
 public class Test {
+
+    public int add(int a, int b){
+        return a+b;
+    }
+
  
     public int sub(int a,int b){
     return a-b;
@@ -14,6 +19,7 @@ public class Test {
             return true;
         }
         return false;
+
 
     }
 }
