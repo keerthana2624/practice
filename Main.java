@@ -16,8 +16,8 @@ public class Main {
         test.add(4,3);
 
     
-        t.sub(2,3);
-        System.out.println(t);
+      
+        System.out.println(t.sub(2,3));
 
 
         Test med = new Test();
