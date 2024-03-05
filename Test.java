@@ -1,5 +1,10 @@
 public class Test {
 
+    public double power(double base, int exponent) {
+        return Math.pow(base, exponent);
+    }
+
+
     public int division(int a, int b) {
         return a / b;
      }
@@ -23,8 +28,5 @@ public class Test {
             return true;
         }
         return false;
-
-
-
     }
 }
